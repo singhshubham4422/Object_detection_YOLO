@@ -1,1 +1,1 @@
-# Object_detection_YOLO
+🐾 YOLOv5 Animal Detection 🐾
